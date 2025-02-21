@@ -17,5 +17,7 @@ This Python program allows users to encrypt and decrypt text using the Caesar ci
 
 1. **Clone the Repository** (if applicable):
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   https://github.com/NandanaKR973/PRODIGY_CS_01.git
+
+# Bash
+- python caesar_cipher.py
