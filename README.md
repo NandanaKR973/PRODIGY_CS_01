@@ -21,3 +21,7 @@ This Python program allows users to encrypt and decrypt text using the Caesar ci
 
 # Bash
 - python caesar_cipher.py
+
+# Example 
+
+![Screenshot (1)](https://github.com/user-attachments/assets/0e48c3ce-fd95-463a-afa1-47904c245901)
